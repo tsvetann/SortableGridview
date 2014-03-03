@@ -1,0 +1,28 @@
+{
+    "name": "tsvetann/sortablegridview",
+    "description": "A sortable grid view for Yii2",
+    "keywords": ["gridview", "jquery sortable", "sortable"],
+    "homepage": "https://github.com/tsvetann",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tsvetan Nikolov",
+            "email": "live.webscore@gmail.com",
+            "homepage": "http://webalogix.com",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tsvetann",
+        "source": "https://github.com/tsvetann"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tsvetann\\sortablegridview\\": ""
+        }
+    }
+}
