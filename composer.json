@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/tsvetann",
-        "source": "https://github.com/tsvetann"
+        "issues": "https://github.com/tsvetann/SortableGridview/issues",
+        "source": "https://github.com/tsvetann/SortableGridview"
     },
     "require": {
         "php": ">=5.4.0"
