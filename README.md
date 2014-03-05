@@ -35,5 +35,9 @@ echo SortableGridview::widget([
                 'title',
             ],
         ]);
+```
         
+Installation via composer
+-------------------
 
+require: "tsvetann/sortablegridview": "dev-master"
