@@ -6,7 +6,7 @@ Yii2 Sortable Gridview
 What is sortable gridview
 -------------------
 
-Sometimes one needs a more complex jquery sortable element such that you can filter the elements in a bigger database and then be able to sort the results. Sortable Gridview fulfils this gap
+Sometimes one needs a more complex jquery sortable element such that you can filter the elements in a bigger database and then be able to sort the results. Sortable Gridview fulfills this gap
 
 Usage
 -------------------
@@ -35,5 +35,9 @@ echo SortableGridview::widget([
                 'title',
             ],
         ]);
+```
         
+Installation via composer
+-------------------
 
+require: "tsvetann/sortablegridview": "dev-master"
